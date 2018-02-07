@@ -1,11 +1,10 @@
 Package: chinafresh
 Type: Package
-Title: What the Package Does (Title Case)
+Title: China Capital Markets - Data Analysis and Visualization 
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Stephen Booth and Robert Olney
+Maintainer: The package maintainer <sbooth20@gmail.com>
+Description: 
+License: MIT
 Encoding: UTF-8
 LazyData: true
